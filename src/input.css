@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    margin: 0;
+    line-height: inherit;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
